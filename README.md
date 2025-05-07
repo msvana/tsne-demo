@@ -6,3 +6,4 @@ library. This library implements the tSNE dimension reduction method which can b
 create 2D or 3D visualizations of high-dimensional data.
 
 In the demo, we visualize a small part of the MNIST dataset in a 2D chart.
+You can find the demo at https://msvana.github.io/tsne-demo/
